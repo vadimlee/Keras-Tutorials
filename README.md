@@ -1,6 +1,6 @@
-# Upgrade
+# Keras 2 upgrade
 
-* Code fixed for Keras 2, some optimizer and model changes
+* Notebooks fixed for Keras 2, some optimizer and model changes
 * Added model history plots
 
 # Keras-Tutorials
@@ -23,5 +23,4 @@ Fork from https://github.com/tgjeon/Keras-Tutorials
 *Dependencies*
 * [Keras v2.0.6](https://github.com/fchollet/keras)
 * [TensorFlow v1.1.0](https://github.com/tensorflow/tensorflow)
-* 
 
